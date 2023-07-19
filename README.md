@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stepan Panko</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **my next portfolio project**
+- 🔭 I’m currently working on **another portfolio project**
 
-- 🌱 My next goal is to learn **Next.js**
+- 🌱 My feature goal is to learn **Next.js**
 
 - 🤝  I'm open to collaborating on interesting projects as a developer
 
